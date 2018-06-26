@@ -1,13 +1,13 @@
-tabby_cat = "\tI'm tabbed in."
-persian_dog = "I'm split\non a line."
-backslash_dog = "I'm \\ a \\ cat."
-fat_dog = """
+tabby_rat = "\tI'm tabbed in."
+persian_rat = "I'm split\non a line."
+backslash_rat = "I'm \\ a \\ rat."
+fat_rat = """
 I'll do a list:
-\t* cat food
+\t* rat food
 \t* Fishies
 \t* Catnip\n\t* Grass
 """
-print(tabby_cat)
-print(persian_cat)
-print(backslash_cat)
-print(fat_dogcat)
+print(tabby_rat)
+print(persian_rat)
+print(backslash_rat)
+print(fat_rat)
